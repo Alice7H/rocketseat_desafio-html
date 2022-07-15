@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 2rem;
+  color: #000;
+}
+fieldset{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: .5rem 2rem;
+}
+legend {
+  padding: 0 10px;
+}
+
+label, button{
+  margin-top: 10px;
+}
+input, 
+select,
+textarea{
+  padding: 5px;
+}
+input, 
+select{
+  height: 30px;
+}
+#newsletter{
+  vertical-align: bottom;
+  height: 20px;
+  width: 20px;
+}
+button{
+  background-color: #8d4c7e;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  width: 100px;
+}

@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-size: 1rem;
+  padding: 50px;
+}
+h2{
+  color: #b248b1;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+a{
+  color: #000;
+  line-height: 1.5rem;
+  text-decoration: none;
+}
+dd{
+  margin-bottom: 10px;
+}
