@@ -22,4 +22,4 @@ Este é um formulário de contato criado como sugestão da Rocketseat.
 
 - Ao finalizar, o resultado será parecido com o da imagem abaixo:
 
-<img src="./form-contato.png" align="left">
+<img src="./modelo.png" align="left">

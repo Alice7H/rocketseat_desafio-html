@@ -12,4 +12,4 @@ Este é um exercício para criar uma lista de compras, criado como sugestão da 
 
 - Ao finalizar, o resultado será parecido com o da imagem abaixo:
 
-<img src="./shopping-list.png" align="left">
+<img src="./modelo.png" align="left">

@@ -36,9 +36,14 @@ select{
   width: 20px;
 }
 button{
-  background-color: #8d4c7e;
+  background-color: #c4c4c4;
   border: none;
   border-radius: 5px;
   height: 50px;
   width: 100px;
+  transition: all 0.5s ease-in-out;
+}
+button:hover{
+  background-color:#0a0a23;
+  color: #fff;
 }
