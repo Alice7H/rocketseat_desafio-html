@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Capa" title="Capa" src="./assets/images/blog-post.png" />
+</h1>
+
 ## Projeto
 
 Neste desafio criado como sugestão da Rocketseat, devemos criar a estrutura HTML para a página de post de um blog.

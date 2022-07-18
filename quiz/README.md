@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Capa" title="Capa" src="./assets/images/quiz.png" />
+</h1>
+
 ## Projeto
 
 Neste desafio criado como sugestão da Rocketseat, devemos criar um quiz de perguntas e respostas.
@@ -12,4 +16,4 @@ Neste desafio criado como sugestão da Rocketseat, devemos criar um quiz de perg
 
 - Ao finalizar, o resultado será parecido com o da imagem abaixo:
 
-<img src="./modelo.png" align="left">
+<img src="./assets/images/modelo.png" align="left">

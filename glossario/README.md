@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img alt="Capa" title="Capa" src="./assets/images/glossario.png" />
+</h1>
 ## Projeto
 
 Este é um glossário criado como sugestão da Rocketseat.
@@ -16,4 +19,4 @@ Este é um glossário criado como sugestão da Rocketseat.
 
 - Ao finalizar, o resultado será parecido com o da imagem abaixo:
 
-<img src="./modelo.png" align="left">
+<img src="./assets/images/modelo.png" align="left">

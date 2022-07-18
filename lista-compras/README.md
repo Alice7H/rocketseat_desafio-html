@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Capa" title="Capa" src="./assets/images/lista-compras.png" />
+</h1>
+
 ## Projeto
 
 Este é um exercício para criar uma lista de compras, criado como sugestão da Rocketseat.
@@ -12,4 +16,4 @@ Este é um exercício para criar uma lista de compras, criado como sugestão da 
 
 - Ao finalizar, o resultado será parecido com o da imagem abaixo:
 
-<img src="./modelo.png" align="left">
+<img src="./assets/images/modelo.png" align="left">
