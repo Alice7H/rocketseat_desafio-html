@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body{
+  padding: 2rem;
+}
+li{
+  margin-left: 1rem;
+  margin-top: 1rem;
+  line-height: 1.5rem;
+}
+button{
+  margin-top: 1rem;
+  height: 50px;
+  padding: 1rem;
+  border-radius: 4px;
+  border: none;
+  background-color: #c4c4c4;
+  transition: all 0.5s linear 200ms;
+}
+
+button:active, 
+button:hover{
+  border: 1px solid #c4c4c4;
+  background-color: #5a5a5a;
+  color: #fff;
+}
